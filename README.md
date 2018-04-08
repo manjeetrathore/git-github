@@ -1,2 +1,2 @@
 # git-github
-this is for prectice purpose
+This is for prectice purpose.
